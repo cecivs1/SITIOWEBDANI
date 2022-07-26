@@ -1,0 +1,38 @@
+
+body{margin-top: 0;
+    text-align: center;
+    padding-top:800px;
+    }
+h1{
+    font-size: 50px;
+    color:ghostwhite;
+}
+h2{
+    font-size: 30px;
+    color: darkviolet;
+}
+.profile{
+    width: 200px;
+    border-radius: 50%;
+    border-bottom: 50%;
+   }
+   #welcome{
+    background:linear-gradient(#0000d7 0%,#7f1184 50%);
+
+    
+    position: absolute;
+   
+  
+   left: 0;
+   top: 0;
+   right: 0;
+   bottom: 0;
+   display: table;
+   width: 100%;
+   height: 80%;
+   z-index: 9;
+}
+li{
+    color: darkorange; 
+    font-size: medium;
+}
